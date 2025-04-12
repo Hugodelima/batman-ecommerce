@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Batman: o Cavaleiro das Trevas - Edição Absoluta",
+    "price": 59.90,
+    "description": "O Cavaleiro das Trevas de Frank Miller recebe o tratamento absoluto que merece! Reunindo a minissérie clássica",
+    "image": "https://m.media-amazon.com/images/I/61MCl+7rAOL._SY466_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Coleção de HQ's Batman Ano Um",
+    "price": 89.90,
+    "description": "Edição premium da graphic novel que reinventou o Homem-Morcego",
+    "image": "https://lh3.googleusercontent.com/proxy/iuncWD_PpCZ4UYzcM_k8hxEIQDylyTFYgKAa-cX88k4ClhIx9JKAVxG_d3G5Ilypg1CSNC-w3hA64h95QRVg_3Z-b1Bw0T6Dusp-ipcABYlj0j1B5wE8HvPBYFtXHsGwRt6vQzsr-BT5qwQOzgio"
+  },
+  {
+    "id": 3,
+    "title": "Estatueta Batman Arkham Knight",
+    "price": 249.90,
+    "description": "Figura colecionável de 30cm com base temática",
+    "image": "https://universogeeky.com/cdn/shop/files/1_67100581-7f2c-48de-9a8b-9e0022ac0d50.jpg?v=1702561531"
+  },
+  {
+    "id": 4,
+    "title": "Batman: a Piada Mortal",
+    "price": 59.90,
+    "description": "A Piada Mortal, Alan Moore e Brian Bolland nos levam à mente do Príncipe Palhaço do Crime",
+    "image": "https://m.media-amazon.com/images/I/612NQUm0buL._SY466_.jpg"
+  }
+]
